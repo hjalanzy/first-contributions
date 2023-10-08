@@ -37,6 +37,7 @@
 - [Prakhar Shankar](https://github.com/Prakhar-Shankar)
 - [Mark Thomas](https://github.com/Emtee100)
 - [Habibur Rahman]()
+- [hjalanzy]
 - [Aditya Garg](https://github.com/aditya7302)
 - [Shrey](https://github.com/Zhreyu)
 - [Gabrielli Oliveira](https://github.com/gabrielliosc)
